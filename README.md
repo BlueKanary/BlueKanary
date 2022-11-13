@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+✨Hello There!✨ I'm BlueKanary and am learning the tools to make and develop software.
 
 <!--
 **BlueKanary/BlueKanary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
